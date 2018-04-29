@@ -1,2 +1,1 @@
-# firstLook
-My first App
+# My first App
